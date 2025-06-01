@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains Lab 2’s implementation of a multi‐threaded prime‐number generator using OpenMP. The program:
+This repository contains implementation of a multi‐threaded prime‐number generator using OpenMP. The program:
 
 1. Accepts three command‐line arguments:  
    - **M** (lower bound integer),  
